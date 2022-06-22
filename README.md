@@ -1,4 +1,4 @@
 # webcomp
 Full Stack Web Components
 
-Check the course
+Check the great course
